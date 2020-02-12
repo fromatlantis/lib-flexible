@@ -1,6 +1,6 @@
 {
   "name": "lib-flexible",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "移动端适配解决方案",
   "main": "flexible.js",
   "scripts": {
